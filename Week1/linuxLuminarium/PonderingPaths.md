@@ -1,4 +1,4 @@
-#Pondering Paths 
+# Pondering Paths 
 
 ## Challenge 1: The Root
 In this challenge of the Linux Luminarium Dojo, Pondering Paths module, we need to run a pwn program using an absolute path to get the flag. 
